@@ -8,6 +8,7 @@ Este proyecto utiliza Hibernate para gestionar entidades relacionadas como depar
 - Java 8 o superior
 - MySQL
 - Maven
+- Hibernate
 
 ## Configuración
 
